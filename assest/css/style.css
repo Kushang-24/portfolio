@@ -208,6 +208,10 @@ body {
   margin-top: 30px;
   width: 117px;
 }
+.tailwind-image {
+  margin-top: 10px;
+  width: 193px;
+}
 
 .bootstrap-image {
   width: 130px;
